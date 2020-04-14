@@ -1,5 +1,5 @@
 # Covid19_Data_Science_Practice
-Covid-19 Data scrubbing, modelling, and plotting.
+Covid-19 Data scrubbing, modeling, and plotting.
 ---
 
 I used this data to learn more about data science.
@@ -10,7 +10,8 @@ State_County_Fips_Covid_NYTimes_Dataset.ipynb
  - Pulls in both state and state with county datasets and allows export to .csv
 
 Ohio_Covid.ipynb
- - Pulls in datset, prepares dataset, uses a logistic regression model to predict a curve of infection. 
+ - Pulls in datset, prepares dataset, uses a logistic regression model to predict a curve of infection.
+ - *Now calculating updated infection rates daily*
   - Model built from various internet searches.
 
 Montgomery_County_Covid.ipynb
