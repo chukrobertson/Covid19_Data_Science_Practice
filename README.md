@@ -21,4 +21,4 @@ Hamilton_County_Covid_Cases.ipynb
  - Does the same as Ohio_Covid.ipynb but localized using fips data to Hamilton County Ohio
 
 
-This was fun. Hope someone finds it interesting or useful.
+This was a fun learning project. I no longer work on this but I hope someone finds it interesting or useful.
